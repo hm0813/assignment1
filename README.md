@@ -1,4 +1,4 @@
-# Assignment1
+# ASSIGNMENT !
 
 # Overview
 This contains a functional web app with several components, including a login page, API integrations, keyboard shortcuts, a custom text editor, a reply feature, and light/dark mode.
@@ -25,4 +25,9 @@ This contains a functional web app with several components, including a login pa
 
 # Replying Emai
 ![replying emails](https://github.com/user-attachments/assets/60b2b2e8-bcc6-4dbb-869d-8caa8c7a7f52)
-ls
+
+# Installation
+Clone the repository
+Install the dependencies: npm install
+Start the development server: npm run start
+Open your browser and visit: http://localhost:3000
