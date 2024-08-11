@@ -8,6 +8,9 @@ This contains a functional web app with several components, including a login pa
  React
  Tailwind css
 
+ # Link
+ https://reachinbox-frontend.netlify.app/desktop
+
  # Demo Video
 https://www.loom.com/share/7031e6ab50f24e1da4f4b6b4c604272f?sid=50f31ec0-d76d-4733-8fec-e3c28c3fcec2
 
