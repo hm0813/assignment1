@@ -34,6 +34,9 @@ https://www.loom.com/share/7031e6ab50f24e1da4f4b6b4c604272f?sid=50f31ec0-d76d-47
 
 # Installation
 Clone the repository
+
 Install the dependencies: npm install
+
 Start the development server: npm run start
+
 Open your browser and visit: http://localhost:3000
